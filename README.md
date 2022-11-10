@@ -3,7 +3,7 @@ Criando uma cópia do jogo Termo
 
 ---
 
-- [ ]Criar uma lista com palavras de 5 caracteres
+- [ X ]Criar uma lista com palavras de 5 caracteres
 
 - [ ]Sortear uma palavra
 
